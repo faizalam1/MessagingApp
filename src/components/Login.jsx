@@ -38,7 +38,7 @@ const Login = () => {
       </form>
       <p className="text-lg text-center">
         Don&apos;t have an account?{" "}
-        <Link className="font-medium underline" to="/register">
+        <Link className="font-medium underline" to="../register">
           Register
         </Link>{" "}
         here
