@@ -14,7 +14,7 @@ import {
 // eslint-disable-next-line react-refresh/only-export-components
 const Router = createBrowserRouter([
   {
-    path: "/",
+    path: "/MessagingApp/",
     element: <Layout />,
     errorElement: <ErrorPage />,
     children: [
